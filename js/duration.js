@@ -1,4 +1,4 @@
-var startDate = new Date("2024-09-26T12:00:00"); // 使用 ISO 格式的日期,在此处修改你网站的建立时间
+var startDate = new Date("2024-05-18T00:00:00"); // 使用 ISO 格式的日期,在此处修改你网站的建立时间
 function createTime() {
     var now = new Date();
     var elapsed = now - startDate;
