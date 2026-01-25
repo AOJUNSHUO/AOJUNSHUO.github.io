@@ -870,6 +870,10 @@ i.iconfont {
   font-size: 1em;
   line-height: 1;
 }
+body {
+  font-size: 16px;
+  font-family: LXGW Wenkai Screen;
+}
 :root {
   --color-mode: "light";
   --body-bg-color: #eee;
