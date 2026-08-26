@@ -1,3 +1,5 @@
+---
+---
 /* global Fluid */
 
 HTMLElement.prototype.wrap = function(wrapper) {
