@@ -1,6 +1,7 @@
 ::selection {
   background: #ffffff00;
-  color: #f00;
+  color: #888;
+  font-weight: bold;
 }
 
 .icon {
